@@ -55,7 +55,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-  <a href="mailto:mauricio.saurith@university.edu">
+  <a href="mailto:jose.saurith@est.uexternado.edu.co">
     <img alt="University Email" src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/MauricioSaurith/">
